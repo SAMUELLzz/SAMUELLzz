@@ -1,32 +1,19 @@
+## Olá! Eu sou o Samuel Rodriguez 🖐️
 
-<div>
-  <h1 align="center">E aí, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuel-rodriguez-7a3072236/"><i>Samuel Rodriguez </i></a> 😃️</h1>
-<div align="center">
-  <a href="https://github.com/SAMUELLzz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SAMUELLzz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELLzz&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXOUyck547jD11_po8HphuQ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuz.py/)
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  
-<div align="center">
-  <a href="https://www.instagram.com/saamu_ca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-rodriguez-7a3072236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:samuell.rodriguezz99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-thebadge&logo=gmail&logoColor=white"target="_blank"></a>
-</div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMUELLzz&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-</div>
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
